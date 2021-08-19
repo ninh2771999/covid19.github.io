@@ -34,7 +34,7 @@ export default function CountrySelector({ countries, handleOnChange, value }) {
           </option>
         ))}
       </NativeSelect>
-      <FormHelperText>Lựa chọn quốc gia</FormHelperText>
+      <FormHelperText>Select Country</FormHelperText>
     </FormControl>
   );
 }
